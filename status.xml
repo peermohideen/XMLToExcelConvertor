@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<sample>
+    <samp id="1001">
+        <status>Not Recevied</status>
+        <source>CKC</source>
+        <destination>temp</destination>
+    </samp>
+    <samp id="2001">
+        <status>Not Recevied</status>
+        <source>CKppC</source>
+        <destination>temp</destination>
+    </samp>
+</sample>
